@@ -1,6 +1,6 @@
 # Angular13-2nd-Winner-Sedara-Portal-Angular-UI-Prototype-2
 
-I won the 1st place in topcoder competition:
+I won the 2nd place in topcoder competition:
 Sedara Portal UI Angular Prototype
 https://www.topcoder.com/challenges/6fff3d9b-9afb-4521-8be7-c446b2f974e2?tab=winners
 
